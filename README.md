@@ -6,9 +6,20 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=20&lines=Assalamu+O+Alaikum+Warahmatullah..&hearts;++;Self-taught+Front-End+Developer,;Computer+Science+Student,;CTF+Newbie,;Active+Learner/Researcher,;Love+to+learn+new+stuffs..<3"></a>
 </p>
 <!-- Snake Game -->
-<p align = "center">
-	<img src = "https://github.com/nasiruddin-an4/nasiruddin-an4/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
-</p>
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/nasiruddin-an4/nasiruddin-an4/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/nasiruddin-an4/nasiruddin-an4/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="github contribution grid snake animation"
+    src="https://raw.githubusercontent.com/nasiruddin-an4/nasiruddin-an4/output/github-contribution-grid-snake.svg"
+  />
+</picture>
 
 <img align="right" width=200px height=400px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
 
