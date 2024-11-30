@@ -7,7 +7,7 @@
 </p>
 <!-- Snake Game -->
 <p align = "center">
-	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
+	<img src = "https://github.com/nasiruddin-an4/nasiruddin-an4/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
 </p>
 
 <img align="right" width=200px height=400px alt="side_sticker" src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" />
