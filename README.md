@@ -82,83 +82,84 @@
 <table border="0">
   <tr>
     <td>
-        <!-- StackOverFlow -->
-        <a href="https://stackoverflow.com/users/16347524/yuzhangwang" target="_blank"> 
-        <img src="https://img.shields.io/badge/StackOverFlow-YuZhangWang-%23F48024?style=for-the-badge">
+        <!-- LinkedIn -->
+        <a href="https://www.linkedin.com/in/your-profile" target="_blank"> 
+        <img src="https://img.shields.io/badge/LinkedIn-Profile-%230A66C2?style=for-the-badge">
         </a>
     </td>
     <td>
-        <!-- CSDN -->
-        <a href="https://blog.csdn.net/qq_43616274" target="_blank"> 
-        <img src="https://img.shields.io/badge/CSDN-YuZhangWang-%23FC5531?style=for-the-badge">
+        <!-- Behance -->
+        <a href="https://www.behance.net/your-profile" target="_blank"> 
+        <img src="https://img.shields.io/badge/Behance-Portfolio-%231766F2?style=for-the-badge">
         </a>
     </td>
     <td>
-        <!-- 掘金 -->
-    <a href="https://juejin.cn/user/4476867080633319" target="_blank"> 
-    <img src="https://img.shields.io/badge/%E6%8E%98%E9%87%91-YuZhangWang-%231E80FF?style=for-the-badge">
-    </a>
-    </td>
-    <td>
-        <!-- 知乎 -->
-        <a href="https://www.zhihu.com/people/YuZhangWang" target="_blank"> 
-        <img src="https://img.shields.io/badge/%E7%9F%A5%E4%B9%8E-YuZhangWang-%230066FF?style=for-the-badge">
-        </a>
-    </td>
-  </tr>
-  <tr>
-    <td>
-        <!-- Github -->
-        <a href="https://github.com/YuZhangWang" target="_blank"> 
-        <img src="https://img.shields.io/badge/Github-YuZhangWang-%2324292F?style=for-the-badge">
+        <!-- Dribbble -->
+        <a href="https://dribbble.com/your-profile" target="_blank"> 
+        <img src="https://img.shields.io/badge/Dribbble-Designs-%23EA4C89?style=for-the-badge">
         </a>
     </td>
     <td>
-        <!-- Gitee -->
-        <a href="https://gitee.com/YuZhangWang233" target="_blank"> 
-        <img src="https://img.shields.io/badge/Gitee-YuZhangWang-%23C71D23?style=for-the-badge">
-        </a>
-    </td>
-    <td>
-        <!-- LeetCode -->
-        <a href="https://leetcode-cn.com/u/yuzhangwang/" target="_blank"> 
-        <img src="https://img.shields.io/badge/LeetCode-YuZhangWang-%23FFA119?style=for-the-badge">
-        </a>
-     </td>
-    <td>
-        <!-- bilibili -->
-        <a href="https://space.bilibili.com/19474542" target="_blank"> 
-        <img src="https://img.shields.io/badge/bilibili-YuZhangWang-%23FB7299?style=for-the-badge">
+        <!-- GitHub -->
+        <a href="https://github.com/your-profile" target="_blank"> 
+        <img src="https://img.shields.io/badge/GitHub-Repos-%2324292F?style=for-the-badge">
         </a>
     </td>
   </tr>
   <tr>
     <td>
-        <!-- 酷安 -->
-        <a href="http://www.coolapk.com/u/1670757" target="_blank"> 
-        <img src="https://img.shields.io/badge/%E9%85%B7%E5%AE%89-YuZhangWang-%2311C273?style=for-the-badge">
-        </a>
-     </td>
-    <td>
-        <!-- 网易云 -->
-        <a href="https://music.163.com/#/user/home?id=340104770" target="_blank"> 
-        <img src="https://img.shields.io/badge/%E7%BD%91%E6%98%93%E4%BA%91-YuZhangWang-%23DF001B?style=for-the-badge">
+        <!-- Facebook -->
+        <a href="https://www.facebook.com/your-page" target="_blank"> 
+        <img src="https://img.shields.io/badge/Facebook-Page-%231877F2?style=for-the-badge">
         </a>
     </td>
     <td>
-        <!-- QQ -->
-        <a href="https://cdn.jsdelivr.net/gh/YuZhangWang/Creative_pictures01@main/2021/03/09/qrcode_1615295622746.jpg" target="_blank"> 
-        <img src="https://img.shields.io/badge/QQ-YuZhangWang-%2350BCFE?style=for-the-badge">
+        <!-- Instagram -->
+        <a href="https://instagram.com/your-profile" target="_blank"> 
+        <img src="https://img.shields.io/badge/Instagram-Profile-%23E4405F?style=for-the-badge">
         </a>
     </td>
     <td>
-        <!-- 微信 -->
-        <a href="https://cdn.jsdelivr.net/gh/YuZhangWang/Creative_pictures01@main/2021/03/09/mmqrcode1615295634051.png" target="_blank"> 
-        <img src="https://img.shields.io/badge/%E5%BE%AE%E4%BF%A1-YuZhangWang-%231AAD19?style=for-the-badge">
+        <!-- Twitter -->
+        <a href="https://twitter.com/your-profile" target="_blank"> 
+        <img src="https://img.shields.io/badge/Twitter-Profile-%231DA1F2?style=for-the-badge">
+        </a>
+    </td>
+    <td>
+        <!-- YouTube -->
+        <a href="https://www.youtube.com/channel/your-channel" target="_blank"> 
+        <img src="https://img.shields.io/badge/YouTube-Channel-%23FF0000?style=for-the-badge">
+        </a>
+    </td>
+  </tr>
+  <tr>
+    <td>
+        <!-- Pinterest -->
+        <a href="https://pinterest.com/your-profile" target="_blank"> 
+        <img src="https://img.shields.io/badge/Pinterest-Profile-%23BD081C?style=for-the-badge">
+        </a>
+    </td>
+    <td>
+        <!-- Medium -->
+        <a href="https://medium.com/@your-profile" target="_blank"> 
+        <img src="https://img.shields.io/badge/Medium-Blog-%23000000?style=for-the-badge">
+        </a>
+    </td>
+    <td>
+        <!-- Stack Overflow -->
+        <a href="https://stackoverflow.com/users/your-id" target="_blank"> 
+        <img src="https://img.shields.io/badge/StackOverflow-Profile-%23F48024?style=for-the-badge">
+        </a>
+    </td>
+    <td>
+        <!-- CodePen -->
+        <a href="https://codepen.io/your-profile" target="_blank"> 
+        <img src="https://img.shields.io/badge/CodePen-Profile-%23000000?style=for-the-badge">
         </a>
     </td>
   </tr>
 </table>
+
 </div>
 
 
