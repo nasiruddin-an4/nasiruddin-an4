@@ -1,3 +1,5 @@
+<!-- Add this in the head section of your HTML -->
+<link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css" rel="stylesheet">
 <h3 align="center" > Hello < Developers/ >!I'm Nasir Uddin <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px></h3>
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
@@ -84,81 +86,79 @@
     <td>
         <!-- LinkedIn -->
         <a href="https://www.linkedin.com/in/your-profile" target="_blank"> 
-        <img src="https://img.shields.io/badge/LinkedIn-Profile-%230A66C2?style=for-the-badge">
+        <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn">
         </a>
     </td>
     <td>
         <!-- Behance -->
         <a href="https://www.behance.net/your-profile" target="_blank"> 
-        <img src="https://img.shields.io/badge/Behance-Portfolio-%231766F2?style=for-the-badge">
+        <img src="https://img.icons8.com/color/48/000000/behance.png" alt="Behance">
         </a>
     </td>
     <td>
         <!-- Dribbble -->
         <a href="https://dribbble.com/your-profile" target="_blank"> 
-        <img src="https://img.shields.io/badge/Dribbble-Designs-%23EA4C89?style=for-the-badge">
+        <img src="https://img.icons8.com/color/48/000000/dribbble.png" alt="Dribbble">
         </a>
     </td>
     <td>
         <!-- GitHub -->
         <a href="https://github.com/your-profile" target="_blank"> 
-        <img src="https://img.shields.io/badge/GitHub-Repos-%2324292F?style=for-the-badge">
+        <img src="https://img.icons8.com/material-outlined/48/000000/github.png" alt="GitHub">
         </a>
     </td>
-  </tr>
-  <tr>
     <td>
         <!-- Facebook -->
         <a href="https://www.facebook.com/your-page" target="_blank"> 
-        <img src="https://img.shields.io/badge/Facebook-Page-%231877F2?style=for-the-badge">
+        <img src="https://img.icons8.com/color/48/000000/facebook-new.png" alt="Facebook">
         </a>
     </td>
     <td>
         <!-- Instagram -->
         <a href="https://instagram.com/your-profile" target="_blank"> 
-        <img src="https://img.shields.io/badge/Instagram-Profile-%23E4405F?style=for-the-badge">
+        <img src="https://img.icons8.com/color/48/000000/instagram-new.png" alt="Instagram">
         </a>
     </td>
     <td>
         <!-- Twitter -->
         <a href="https://twitter.com/your-profile" target="_blank"> 
-        <img src="https://img.shields.io/badge/Twitter-Profile-%231DA1F2?style=for-the-badge">
+        <img src="https://img.icons8.com/color/48/000000/twitter.png" alt="Twitter">
         </a>
     </td>
     <td>
         <!-- YouTube -->
         <a href="https://www.youtube.com/channel/your-channel" target="_blank"> 
-        <img src="https://img.shields.io/badge/YouTube-Channel-%23FF0000?style=for-the-badge">
+        <img src="https://img.icons8.com/color/48/000000/youtube-play.png" alt="YouTube">
         </a>
     </td>
-  </tr>
-  <tr>
     <td>
         <!-- Pinterest -->
         <a href="https://pinterest.com/your-profile" target="_blank"> 
-        <img src="https://img.shields.io/badge/Pinterest-Profile-%23BD081C?style=for-the-badge">
+        <img src="https://img.icons8.com/color/48/000000/pinterest--v1.png" alt="Pinterest">
         </a>
     </td>
     <td>
         <!-- Medium -->
         <a href="https://medium.com/@your-profile" target="_blank"> 
-        <img src="https://img.shields.io/badge/Medium-Blog-%23000000?style=for-the-badge">
+        <img src="https://img.icons8.com/ios-filled/50/000000/medium-monogram.png" alt="Medium">
         </a>
     </td>
     <td>
         <!-- Stack Overflow -->
         <a href="https://stackoverflow.com/users/your-id" target="_blank"> 
-        <img src="https://img.shields.io/badge/StackOverflow-Profile-%23F48024?style=for-the-badge">
+        <img src="https://img.icons8.com/color/48/000000/stack-overflow.png" alt="Stack Overflow">
         </a>
     </td>
     <td>
         <!-- CodePen -->
         <a href="https://codepen.io/your-profile" target="_blank"> 
-        <img src="https://img.shields.io/badge/CodePen-Profile-%23000000?style=for-the-badge">
+        <img src="https://img.icons8.com/ios-filled/48/000000/codepen.png" alt="CodePen">
         </a>
     </td>
   </tr>
 </table>
+
+
 
 </div>
 
