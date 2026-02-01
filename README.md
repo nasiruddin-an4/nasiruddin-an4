@@ -31,12 +31,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-[![nasiruddin-an4 GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=nasiruddin-an4&theme=tokyonight)](https://github.com/nasiruddin-an4)
-
-| ![nasiruddin-an4 github stats](https://github-readme-stats.vercel.app/api?username=nasiruddin-an4&show_icons=true&theme=tokyonight) | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nasiruddin-an4&theme=tokyonight) |
-
 ## 📬 Connect with Me
 
 <div align="center">
