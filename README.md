@@ -10,10 +10,14 @@
 
 ## 👨‍💻 About Me
 
-- 🔭 I’m working on:
-  - Enterprise web applications and digital platforms at **Betopia Group**
-  - Full-stack development, backend APIs, and scalable digital solutions
-  - Cloud infrastructure, VPS management, and production deployments
+I’m a **Software Engineer** passionate about building scalable web applications, digital platforms, and technology solutions that create real business value. My journey started in digital marketing and frontend development, and I’ve grown into full-stack engineering with a strong interest in **Software Architecture, Cloud, DevOps, and AI**.
+
+Currently, I work at **Betopia Group**, contributing to enterprise applications, digital infrastructure, and technology-driven digital transformation.
+
+- 🔭 I’m currently working on:
+  - Enterprise web applications and digital platforms
+  - Full-stack development, backend APIs, and scalable solutions
+  - Cloud infrastructure, VPS management, and deployments
   - SEO, AEO & GEO for digital growth
 
 - 🌱 I’m currently learning:
@@ -22,9 +26,9 @@
   - **AI Engineering**
 
 - 👯 I’m looking to collaborate on:
-  - **Full-Stack & Enterprise Software** projects
-  - **Cloud & DevOps** solutions
-  - **AI-powered applications**
+  - Full-Stack & Enterprise Software projects
+  - Cloud & DevOps solutions
+  - AI-powered applications
 
 - 💬 Ask me about:
   - **Next.js, React, Node.js & MongoDB**
