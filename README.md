@@ -10,24 +10,30 @@
 
 ## 👨‍💻 About Me
 
-- 🔭 I’m working on:  
-  - Portfolio website using **React JS** & **Tailwind CSS** for **Visual Edge Ventures**  
-  - **Machine Learning** projects like **Spam Detection Systems**
+- 🔭 I’m working on:
+  - Enterprise web applications and digital platforms at **Betopia Group**
+  - Full-stack development, backend APIs, and scalable digital solutions
+  - Cloud infrastructure, VPS management, and production deployments
+  - SEO, AEO & GEO for digital growth
 
-- 🌱 I’m currently learning:  
-  - **React JS** for building dynamic UIs  
-  - **Machine Learning** to enhance feature capabilities
+- 🌱 I’m currently learning:
+  - **Software Architecture & System Design**
+  - **DevOps & Cloud Engineering**
+  - **AI Engineering**
 
-- 👯 I’m looking to collaborate on:  
-  - **UX/UI design** and **Web Development** projects  
-  - **Spam Detection** and **NLP** based ML tools
+- 👯 I’m looking to collaborate on:
+  - **Full-Stack & Enterprise Software** projects
+  - **Cloud & DevOps** solutions
+  - **AI-powered applications**
 
-- 💬 Ask me about:  
-  - Web development with **React** & **Tailwind CSS**  
-  - **UX/UI** workflows and trends  
-  - **Spam detection systems** using **ML**
+- 💬 Ask me about:
+  - **Next.js, React, Node.js & MongoDB**
+  - Backend API development
+  - Cloud, VPS & deployment
+  - SEO, AEO & GEO
+  - Scalable digital platforms
 
-- ⚡ Fun fact: *Me gustan los girasoles* 🌻
+- ⚡ Fun fact: *Started in digital marketing, moved into software engineering, and now building toward Software Architecture.* 🚀
 
 ---
 
